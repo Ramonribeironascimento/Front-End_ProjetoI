@@ -8,6 +8,8 @@ Este repositório contém o site institucional construído com **HTML5.
 ## 🚀 Estrutura do Projeto
 
 ├── index.html → Página inicial (sobre e contato)
+├── projetos.html → Projetos sociais e voluntariado
+├── cadastro.html → Formulário de cadastro de doadores e voluntários
 ├── img/
 │ └── imagens diversas
 
